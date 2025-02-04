@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Netflix-website/static/css/main.63cab9aa.css",
-    "main.js": "/Netflix-website/static/js/main.b6031ff3.js",
+    "main.js": "/Netflix-website/static/js/main.0942a7bb.js",
     "static/js/453.7e9cfab3.chunk.js": "/Netflix-website/static/js/453.7e9cfab3.chunk.js",
     "static/media/DE-en-20241104-TRIFECTA-perspective_2f15a6cc-0362-43e7-b9ef-af13ba0286c6_large.jpg": "/Netflix-website/static/media/DE-en-20241104-TRIFECTA-perspective_2f15a6cc-0362-43e7-b9ef-af13ba0286c6_large.023a51525a15a5a97415.jpg",
     "static/media/AAAABQqKUHdoUE8baxrPHDRNQ-Grqrj07X3e_ES9nZcCZX3_KlIkABetCC_sSiRCwztZDKTT26OIDRmuVgZMkQmC9S9KlKL7Pz9pPrAMBy4kq3V2bwH4Ga8f4RQRXvfpCupltTNTpA.webp": "/Netflix-website/static/media/AAAABQqKUHdoUE8baxrPHDRNQ-Grqrj07X3e_ES9nZcCZX3_KlIkABetCC_sSiRCwztZDKTT26OIDRmuVgZMkQmC9S9KlKL7Pz9pPrAMBy4kq3V2bwH4Ga8f4RQRXvfpCupltTNTpA.43b0b82a5aea70bee79d.webp",
@@ -13,11 +13,11 @@
     "static/media/Netflix_Logo_PMS.png": "/Netflix-website/static/media/Netflix_Logo_PMS.303904f75553a51bbf31.png",
     "index.html": "/Netflix-website/index.html",
     "main.63cab9aa.css.map": "/Netflix-website/static/css/main.63cab9aa.css.map",
-    "main.b6031ff3.js.map": "/Netflix-website/static/js/main.b6031ff3.js.map",
+    "main.0942a7bb.js.map": "/Netflix-website/static/js/main.0942a7bb.js.map",
     "453.7e9cfab3.chunk.js.map": "/Netflix-website/static/js/453.7e9cfab3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63cab9aa.css",
-    "static/js/main.b6031ff3.js"
+    "static/js/main.0942a7bb.js"
   ]
 }
