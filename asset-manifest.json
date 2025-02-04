@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Netflix-website/static/css/main.63cab9aa.css",
+    "main.js": "/Netflix-website/static/js/main.5a50a598.js",
+    "static/js/453.7e9cfab3.chunk.js": "/Netflix-website/static/js/453.7e9cfab3.chunk.js",
+    "static/media/DE-en-20241104-TRIFECTA-perspective_2f15a6cc-0362-43e7-b9ef-af13ba0286c6_large.jpg": "/Netflix-website/static/media/DE-en-20241104-TRIFECTA-perspective_2f15a6cc-0362-43e7-b9ef-af13ba0286c6_large.023a51525a15a5a97415.jpg",
+    "static/media/AAAABQqKUHdoUE8baxrPHDRNQ-Grqrj07X3e_ES9nZcCZX3_KlIkABetCC_sSiRCwztZDKTT26OIDRmuVgZMkQmC9S9KlKL7Pz9pPrAMBy4kq3V2bwH4Ga8f4RQRXvfpCupltTNTpA.webp": "/Netflix-website/static/media/AAAABQqKUHdoUE8baxrPHDRNQ-Grqrj07X3e_ES9nZcCZX3_KlIkABetCC_sSiRCwztZDKTT26OIDRmuVgZMkQmC9S9KlKL7Pz9pPrAMBy4kq3V2bwH4Ga8f4RQRXvfpCupltTNTpA.43b0b82a5aea70bee79d.webp",
+    "static/media/AAAABUFEiO-S1eKH8VZMxbQVuGWRim8MF8XF8ZW0AtL6lyIgrNdZngwwVWRFyZRN_V1g5jfMb6SzDUCEsFIugF_WkfnMgjHCuFIx4LnAP_44qQ6SWp_DaxEhjJoNjqRN7N68Bo6Lqg.webp": "/Netflix-website/static/media/AAAABUFEiO-S1eKH8VZMxbQVuGWRim8MF8XF8ZW0AtL6lyIgrNdZngwwVWRFyZRN_V1g5jfMb6SzDUCEsFIugF_WkfnMgjHCuFIx4LnAP_44qQ6SWp_DaxEhjJoNjqRN7N68Bo6Lqg.936b26e375952d30b9ef.webp",
+    "static/media/AAAABU9qtpzERgDs8SG_L1cCWN_vnsG9aEWNerBC5zJRxbpBBTQrWSFr8jmgILQHBuHiKATVHh2ZC6JXfqO4dECIb1l5Vg5DUfmlNDXkB_N657r05jCbgD7lnHrBvbUApu4ZbedTSQ.webp": "/Netflix-website/static/media/AAAABU9qtpzERgDs8SG_L1cCWN_vnsG9aEWNerBC5zJRxbpBBTQrWSFr8jmgILQHBuHiKATVHh2ZC6JXfqO4dECIb1l5Vg5DUfmlNDXkB_N657r05jCbgD7lnHrBvbUApu4ZbedTSQ.0983967c9fa39953772b.webp",
+    "static/media/AAAABWCLHg8BC2YOYQwrkDmAfx9TRDnrs0Kjni5bXAeXeG-HcwBKZaAf6clBMbjc8CWqJ-5iCqeLbFJr8mZ7-9wPnIXWTZ8kICWwXsbk_qDcd0cckFpr9V6cQfXyS51FGZLbEKXChA.webp": "/Netflix-website/static/media/AAAABWCLHg8BC2YOYQwrkDmAfx9TRDnrs0Kjni5bXAeXeG-HcwBKZaAf6clBMbjc8CWqJ-5iCqeLbFJr8mZ7-9wPnIXWTZ8kICWwXsbk_qDcd0cckFpr9V6cQfXyS51FGZLbEKXChA.a8783ff7a04f6d4d7226.webp",
+    "static/media/AAAABSwRif5QdWh-2zuPkAgjFlTpSkk3MDVDJTv5laeZUBJ-PeefkJT4aMLZx7IrcrKBMlpfG032dA_pS31uG0_vBkhB71HxvBDbmoRc.webp": "/Netflix-website/static/media/AAAABSwRif5QdWh-2zuPkAgjFlTpSkk3MDVDJTv5laeZUBJ-PeefkJT4aMLZx7IrcrKBMlpfG032dA_pS31uG0_vBkhB71HxvBDbmoRc.0a6e375cfd955aac6cc2.webp",
+    "static/media/AAAABRY13rE6hFZeP981fDAgmKTcN4P0SzIOzCS8PMVNcm1A41O8G1dqia0SGeBUzBvFiH3JX_ugRAq5nbRkhsb4FpQy6PLwZyRw5cTO7EjbrO8YX7-Pk2joGpoaBQYi6RwFo4p11Q.webp": "/Netflix-website/static/media/AAAABRY13rE6hFZeP981fDAgmKTcN4P0SzIOzCS8PMVNcm1A41O8G1dqia0SGeBUzBvFiH3JX_ugRAq5nbRkhsb4FpQy6PLwZyRw5cTO7EjbrO8YX7-Pk2joGpoaBQYi6RwFo4p11Q.0fdc1473c89d6943aa79.webp",
+    "static/media/Netflix_Logo_PMS.png": "/Netflix-website/static/media/Netflix_Logo_PMS.303904f75553a51bbf31.png",
+    "index.html": "/Netflix-website/index.html",
+    "main.63cab9aa.css.map": "/Netflix-website/static/css/main.63cab9aa.css.map",
+    "main.5a50a598.js.map": "/Netflix-website/static/js/main.5a50a598.js.map",
+    "453.7e9cfab3.chunk.js.map": "/Netflix-website/static/js/453.7e9cfab3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63cab9aa.css",
+    "static/js/main.5a50a598.js"
+  ]
+}
