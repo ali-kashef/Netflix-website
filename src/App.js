@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import {HashRouter as Router, Route, Routes } from 'react-router-dom'
 import Home from './Pages/Home'
 import { CssBaseline } from '@mui/material'
 
