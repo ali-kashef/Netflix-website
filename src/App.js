@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {HashRouter as Router, Route, Routes } from 'react-router-dom'
+import {Route, Routes } from 'react-router-dom'
 import Home from './Pages/Home'
 import { CssBaseline } from '@mui/material'
 
@@ -20,6 +20,7 @@ export default function App() {
       
    
      <Navbar/>
+  
       <Routes>
        
         <Route exact path='/' element={<Home/>}/>
